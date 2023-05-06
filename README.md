@@ -79,7 +79,7 @@ $a_{el_{i}}$ = coefficient of power production map of unit i
 
 $b_{el_{i}}$ = constant term of power production map of unit i
 
-_For machines $i\in I$:_
+For machines $i\in I$:
 
 $Min-{In_{i}}$ = minimum input of unit i (if on)
 
@@ -103,7 +103,7 @@ $eta_{{diss}_{s}}$ = thermal loss efficiency of thermal storage s
 
 **Objective function**
 
-_OBJ = machines-fuel-cost + machines-OM-cost + machines-SU-cost + grid-SellBuy  _
+OBJ = machines-fuel-cost + machines-OM-cost + machines-SU-cost + grid-SellBuy
 
 $machines-fuel-cost = \sum_{i\in I_f} \sum_{t\in T} Fuel-cost_{i}\cdot f_{i,t}$
 
@@ -162,7 +162,7 @@ Storage capacity:
 
 $u_{s,t}\leq MaxC_{s}$
 
-#Results
+# Results
 
 **Case A: No electric and thermal storages available**
 
