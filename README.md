@@ -162,6 +162,42 @@ Storage capacity:
 
 $u_{s,t}\leq MaxC_{s}$
 
+#Results
+
+**Case A: No electric and thermal storages available**
+
+Model is infeasible.
+
+**Case B: Thermal storage with capacity equal to 2 MWh, no battery**
+
+<p align="center">
+<img src="https://github.com/rouzbehshi/MES/blob/c4267eba5ad60132a84f760f78f6d465a8aac9d6/plots/caseB_1.png"  alt="Electricity profile" title="Electricity profile" width="400" >
+</p>
+
+<p align="center">
+<img src="https://github.com/rouzbehshi/MES/blob/c4267eba5ad60132a84f760f78f6d465a8aac9d6/plots/caseB_2.png"  alt="Heat profile" title="Heat profile" width="400" >
+</p>
+
+**Case C: Thermal storage with capacity equal to 2 MWh, and battery with capacity equal to 1 MWh**
+
+<p align="center">
+<img src="https://github.com/rouzbehshi/MES/blob/c4267eba5ad60132a84f760f78f6d465a8aac9d6/plots/caseC_1.png"  alt="Electricity profile" title="Electricity profile" width="400" >
+</p>
+
+<p align="center">
+<img src="https://github.com/rouzbehshi/MES/blob/c4267eba5ad60132a84f760f78f6d465a8aac9d6/plots/caseC_2.png"  alt="Heat profile" title="Heat profile" width="400" >
+</p>
+
+**Case D: Thermal storage with capacity equal to 4 MWh, and battery with capacity equal to 1 MWh**
+
+<p align="center">
+<img src="https://github.com/rouzbehshi/MES/blob/c4267eba5ad60132a84f760f78f6d465a8aac9d6/plots/caseD_1.png"  alt="Electricity profile" title="Electricity profile" width="400" >
+</p>
+
+<p align="center">
+<img src="https://github.com/rouzbehshi/MES/blob/c4267eba5ad60132a84f760f78f6d465a8aac9d6/plots/caseD_2.png"  alt="Heat profile" title="Heat profile" width="400" >
+</p>
+
 
 
 
